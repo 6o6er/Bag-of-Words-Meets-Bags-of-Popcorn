@@ -1,3 +1,7 @@
+#Количество копирований - 6
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 47
 # Bag-of-Words-Meets-Bags-of-Popcorn
 
 参考代码：https://github.com/tjflexic/kaggle-word2vec-movie-reviews
